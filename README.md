@@ -1,9 +1,14 @@
 # Projet de GLA
 Version 2024
 
-- [Developer Guide](Developer%20Guide.pdf)
+## TL;DR
+
+[Also check out the project's frontend](https://github.com/0xRyN/PathfindR-Frontend)
+
 - [User Guide](User%20Guide.pdf)
-- [UML Class Diagram](class_diagram.jpg)
+- [Developer Guide](Developer%20Guide.pdf)
+- [Backend UML Class Diagram](class_diagram.jpg)
+- [App Structure Diagram](front_back.jpg)
 
 ## Description
 Ceci est l'archetype de projet de Génie Logiciel Avancé (GLA).
