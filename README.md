@@ -1,6 +1,10 @@
 # Projet de GLA
 Version 2024
 
+- [Developer Guide](Developer%20Guide.pdf)
+- [User Guide](User%20Guide.pdf)
+- [UML Class Diagram](class_diagram.jpg)
+
 ## Description
 Ceci est l'archetype de projet de Génie Logiciel Avancé (GLA).
 
