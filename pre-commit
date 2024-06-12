@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# Exécute 'mvn verify' pour lancer les tests
+mvn verify
+
+# Vérifie le code de sortie de Maven
+if [ $? -ne 0 ]; then
+  echo "Les tests ont échoué, commit annulé."
+  exit 1
+fi
+
+exit 0
